@@ -1,0 +1,36 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "prettier.useTabs": false,
+  "cSpell.words": [
+    "Fprintf",
+    "Printf",
+    "dject",
+    "djecttest",
+    "gomock",
+    "struct",
+    "tampopos",
+    "uuid",
+    "wakuwaku"
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/dist": true
+  },
+  "cSpell.ignoreRegExpList": ["/.*ー/"],
+  "cSpell.ignorePaths": [
+    "**/package-lock.json",
+    "**/node_modules/**",
+    "**/vscode-extension/**",
+    "**/.git/**",
+    ".vscode",
+    "typings",
+    "go.mod",
+    "go.sum"
+  ]
+}
